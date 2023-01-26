@@ -1,2 +1,2 @@
-# desenvolvendoapi
-Projeto do curso pertencente a formação JavaScript para Front-end: JavaScript consumindo e tratando de uma API.
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
